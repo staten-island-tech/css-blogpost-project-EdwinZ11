@@ -1,5 +1,5 @@
 body {
-  background-color: #fff6f6;
+  background-color: #000000;
 }
 .main-header {
   margin: 45px auto;
@@ -13,7 +13,7 @@ body {
 .main-body {
   text-align: center;
   font-size: 19px;
-  margin-top: 100px;
+  margin-top: 50px;
   padding: 5px;
   color: #212121;
   background-color: #ff0000;
