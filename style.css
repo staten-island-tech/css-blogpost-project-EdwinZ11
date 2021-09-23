@@ -1,21 +1,40 @@
 body {
-  background-color: #000000;
+  background-color: #000000ce;
 }
 .main-header {
+  width: 800px;
   margin: 45px auto;
   border: 4px solid #dbdbdb;
   padding: 15px;
-  background-color: #ff0000;
+  background-color: #e72c2c;
   color: #212121;
   text-align: center;
   font-size: 40px;
+  font-family: "raleway" sans-serif;
 }
 .main-body {
+  width: 750px;
   text-align: center;
   font-size: 19px;
-  margin-top: 50px;
+  margin: 35px auto;
   padding: 5px;
   color: #212121;
-  background-color: #ff0000;
+  background-color: #e72c2c;
   border: 4px solid #dbdbdb;
+}
+.body-one {
+  font-size: 25px;
+}
+.main-two {
+  width: 750px;
+  text-align: center;
+  font-size: 19px;
+  margin: 35px auto;
+  padding: 5px;
+  color: #212121;
+  background-color: #e72c2c;
+  border: 4px solid #dbdbdb;
+}
+.body-two {
+  font-size: 25px;
 }
