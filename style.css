@@ -38,3 +38,16 @@ body {
 .body-two {
   font-size: 25px;
 }
+.main-three {
+  width: 750px;
+  text-align: center;
+  font-size: 19px;
+  margin: 35px auto;
+  padding: 5px;
+  color: #212121;
+  background-color: #e72c2c;
+  border: 4px solid #dbdbdb;
+}
+.body-three {
+  font-size: 25px;
+}
