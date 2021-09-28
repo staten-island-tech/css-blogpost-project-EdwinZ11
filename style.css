@@ -2,7 +2,7 @@ body {
   background-color: #000000ce;
 }
 .main-header {
-  width: 800px;
+  width: 1150px;
   margin: 45px auto;
   border: 4px solid #dbdbdb;
   padding: 15px;
@@ -13,7 +13,7 @@ body {
   font-family: "raleway" sans-serif;
 }
 .post {
-  width: 750px;
+  width: 1000px;
   text-align: center;
   font-size: 19px;
   margin: 35px auto;
