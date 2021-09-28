@@ -26,8 +26,10 @@ body {
   font-size: 25px;
 }
 .img {
-  width="315" height="195"
+  width: 315px;
+  height: 195px;
 }
 .img-two {
-  width="210" height="195"
+  width: 200px;
+  height: 195px;
 }
